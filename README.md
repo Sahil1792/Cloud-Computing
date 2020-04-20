@@ -1,2 +1,2 @@
-# example REST API with authentication
-A Flask app using air quality API that needs authentication!
+This is a RESTFUL service with an external API of deck of cards. The first method POST and GET fetch the data and insert it in the database which is displayed to the client. The second and the third method are GET, where all the data is available in our database, the second method displays the whole data and the third method displays the data of a particluar id. The fourth method PUT updated the data in the database which required all the parameters including id to update the data. The last method DELETE deletes the data of the requested id.
+
